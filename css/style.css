@@ -116,6 +116,9 @@ nav{
     background-color: #4d47ff21;
     border-radius: 20px;
 }
+.centered-title{
+  margin-top: -30px;
+}
 .centered-title h2{
     font-size: 38px;
     font-weight: 800;
@@ -176,7 +179,32 @@ nav{
     margin-top: -20px;
     color: #00000044;
 }
-
+/* ready-to-focus Style */
+.ready-to-focus{
+    width: 1250px;
+    height: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #ffff;
+    text-align: center;
+}
+.ready-container h1{
+    font-size: 50px;
+    font-weight: 800;
+}
+.ready-description{
+    font-size: 20px;
+    color: #d6ddeda5;
+}
+.ready-to-focus img{
+    width: 800px;
+    height: 300px;
+    border-radius: 20px;
+}
+.ready-btn{
+    width: 190px;
+    margin-bottom: 20px;
+}
 /* form-section Start */
 .form-section{
     width: 1250px;
